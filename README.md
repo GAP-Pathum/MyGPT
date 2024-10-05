@@ -1,2 +1,3 @@
-# Pathum-s-GPT
-This is my own text generating application developed using MERN stack
+# MyGPT
+MyGPT was developed with react native and expo
+Powered by GeminiAI
